@@ -1,1 +1,60 @@
-
+[
+  {
+    "name": "Ilyas", 
+    "email": "ilyas@example.com",
+    "age": "23"
+  },
+  {
+    "name": "Rustam", 
+    "email": "rustam@example.com"
+    "age": "23"
+  },
+   {
+    "name": "Lupkin", 
+    "email": "lupkin@example.com"
+     "age":"15"
+  },
+   {
+    "name": "Pupkin", 
+    "email": "pypkin@example.com"
+     "age":"15"
+  },
+   {
+    "name": "Zalu", 
+    "email": "pkin@example.com"
+     "age":"16"
+  }, {
+    "name": "Boris", 
+    "email": "britva@example.com",
+    "age": "59"
+  }, {
+    "name": "Kama", 
+    "email": "bullet@example.com",
+    "age": "46"
+  }, {
+    "name": "Chel", 
+    "email": "simple@example.com",
+    "age": "27"
+  }, {
+    "name": "Vladimir", 
+    "email": "put@example.com",
+    "age": "69"
+  }, {
+    "name": "Barak", 
+    "email": "obam@example.com",
+    "age" :"69"
+  }, {
+    "name": "Ivan", 
+    "email": "Ivanov@example.com",
+    "age": "26"
+  }, {
+    "name": "Olga", 
+    "email": "kapr@example.com",
+    "age": "98"
+  }, {
+    "name": "Anna", 
+    "email": "karenina@example.com",
+    "age": "25"
+  },
+  
+]
